@@ -6,4 +6,14 @@ Material referente ao curso online de  [Eduardo Mendes](https://github.com/dunos
 
 ---
 
+### Aulas:
+- Aula 03
+- Aula 04
+- Aula XPath
+- Aula 05
 
+### Exercícios resolvidos:
+- Exercício 01
+- Exercício 02
+- Exercício 03
+- Exercício 04
